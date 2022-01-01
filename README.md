@@ -8,4 +8,6 @@
   - MONGODB
   - CASSANDRA
 - HTML,CSS
+- CORE JAVA
+- KOTLIN(begineer)
 
